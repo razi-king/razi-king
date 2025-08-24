@@ -27,7 +27,6 @@
 ## 🌌 Featured Realms (Projects)
 
 - ⚔️ **Smart Vendor App** – Multi-vendor eCommerce with Admin, Vendor, and User Portals  
-- 🏰 **Student Management System** – Microservices-based learning & attendance system  
 - 💰 **Expense Tracker** – Full-stack React + Spring Boot with JWT Auth  
 - 🎭 **Creative UI/UX Experiments** – Astro, TailwindCSS, React animations  
 
