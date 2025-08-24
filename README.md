@@ -19,7 +19,7 @@
 ## 🛡️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,astro,ts,js,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,python,docker,git,github,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,astro,ts,js,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,python,docker,git,github,linux,vscode,eclipse" />
 </p>
 
 ---
