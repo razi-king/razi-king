@@ -58,18 +58,17 @@
 ## 🌐 Connect With the King
 
 <p align="center">
-  <a href="mailto:raziinsane@gmail.com" target="_blank">
+  <a href="mailto:raziinsane@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/razi-ahmed-8s/" target="_blank">
+  <a href="https://www.linkedin.com/in/razi-ahmed-8s/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://razi-king.github.io" target="_blank">
+  <a href="https://razi-king.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black"/>
   </a>
 </p>
+
 
 
 ---
