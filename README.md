@@ -1,94 +1,69 @@
-<!--
-  ────────────────────────────────────────────────────────────
-   👑 RAZI — THE UNPREDICTABLE PROGRAMMER KING (PROFILE README)
-  ────────────────────────────────────────────────────────────
--->
-
-<!-- HEADER WAVE BANNER -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,50:6A00FF,100:FF0077&text=Razi%20—%20The%20Unpredictable%20King&fontAlignY=40&fontSize=50&desc=Code%20Conqueror%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20Astro%20%7C%20TypeScript&descAlignY=65&animation=fadeIn" alt="Razi King Banner"/>
-</p>
-
-<!-- CENTERPIECE TYPING INTRO -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=1000&size=28&lines=Welcome+to+my+realm.+Bow+to+no+bugs.;I+am+Razi%2C+the+Unpredictable+Programmer+King+%F0%9F%91%91;Spring+Boot+%7C+React+%7C+Astro+%7C+TypeScript+%7C+MySQL;Building+bold+systems+and+beautiful+UIs." alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- QUICK BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=razi-king&style=for-the-badge&color=red" alt="Profile Views"/>
-  <img src="https://custom-icon-badges.demolab.com/github/followers/razi-king?logo=person-add&style=for-the-badge" alt="Followers"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/razi-king?affiliations=OWNER%2CCOLLABORATOR&logo=star&style=for-the-badge" alt="Total Stars"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=250&section=header&text=👑%20Razi%20The%20Unpredictable%20King%20👑&fontSize=45&fontColor=FFD700&animation=twinkling&fontAlignY=40"/>
 </p>
 
 ---
 
-<h2 align="center">👑 Oath of the King</h2>
+## ✨ Who Am I?
 
-> *“I bend code to will, not the other way around.”* — Razi
-
-- 🌌 **Current Focus:** Microservices with Spring Boot, clean React/Astro frontends, and robust DevOps pipelines.  
-- 🧠 **Philosophy:** Performance first, readability next, elegance always.  
-- 🎯 **Mission:** Ship value fast, break limits faster.  
+> I am **Razi**, the **Unpredictable Programmer King** 👑⚡  
+> Code flows like poetry, logic bends to my will, and creativity forges my empire.  
+> This is not just a profile — it’s a **realm of infinite imagination**.
 
 ---
 
-<h2 align="center">🛡️ Arsenal (Tech Stack)</h2>
+## 🔥 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,astro,ts,js,html,css,tailwind,bootstrap,nodejs,express,mysql,postgres,mongodb,redis,docker,linux,git,github,vite,postman,idea,vscode"/>
-</p>
-
----
-
-<h2 align="center">📈 Royal Telemetry</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=razi-king&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=radical&hide_border=true" alt="Razi GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=razi-king&theme=radical&hide_border=true" alt="Razi Streak"/>
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-king&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razi-king&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razi-king&theme=onestar&no-bg=true&no-frame=true&column=6" alt="Trophies"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,astro,js,ts,html,css,tailwind,bootstrap,mysql,python,git,github,docker" />
 </p>
 
 ---
 
-<h2 align="center">🏰 Featured Realms (Projects)</h2>
+## 🌌 Featured Realms (Projects)
 
-- ⚔️ **Smart Vendor Application (Full-Stack)** — Multi-vendor platform with admin, vendor, and user portals. *Spring Boot + Astro/React + MySQL*  
-  🔗 https://github.com/razi-king/smart-vendor-app
+- ⚔️ **Smart Vendor App** – Multi-vendor eCommerce with Admin, Vendor, and User Portals  
+- 🏰 **Student Management System** – Microservices-based learning & attendance system  
+- 💰 **Expense Tracker** – Full-stack React + Spring Boot with JWT Auth  
+- 🎭 **Creative UI/UX Experiments** – Astro, TailwindCSS, React animations
 
-- 🛡️ **Expense Tracker** — Auth, interceptors, and clean UI, with robust REST APIs.  
-  🔗 https://github.com/razi-king/expense-tracker
-
-- 🧭 **Student Management System** — Microservices from day one (attendance, lectures, notes).  
-  🔗 https://github.com/razi-king/student-management-system
-
-- 🌠 **Portfolio (Astro)** — Lightning-fast personal site with MDX & Tailwind.  
-  🔗 https://github.com/razi-king/portfolio-astro
+> _Every project is a battle won in the empire of code._
 
 ---
 
-<h2 align="center">🗡️ My Code Creed</h2>
+## 🪄 Stats of the King
 
-```text
-Clean > Clever
-Patterns > Patches
-Tests before hype.
-Architecture that scales.
-UI that whispers elegance.```
-<h2 align="center">🤝 Courtly Connections</h2> <p align="center"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
-<h2 align="center">🐍 Snake of Contributions</h2> <p align="center"> <img src="https://raw.githubusercontent.com/razi-king/razi-king/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razi-king&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=E0E0E0&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razi-king&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" height="165"/>
+</p>
 
-<!-- FOOTER WAVE BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF0077,50:6A00FF,100:8A2BE2&section=footer"/> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razi-king&theme=react-dark&bg_color=0D1117&color=FFD700&line=8E2DE2&point=FFD700" />
+</p>
+
+---
+
+## 🐍 The Snake of Contributions
+
+<p align="center">
+  <img src="https://github.com/razi-king/razi-king/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 Connect With the King
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://razi-king.github.io"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=120&section=footer"/>
+</p>
+
