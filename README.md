@@ -56,8 +56,8 @@
 ## 🌐 Connect With the King
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:raziinsane@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/razi-ahmed-8s/)"><img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://razi-king.github.io"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black"/></a>
 </p>
 
