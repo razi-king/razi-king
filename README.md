@@ -18,6 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=razi-king&label=Royal%20Visitors&color=8E2DE2&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/razi-king?label=Followers&style=flat-square&color=FFD700&labelColor=1a0b2e" alt="Followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Backend%20roles-8E2DE2?style=flat-square&labelColor=1a0b2e"/>
+  <a href="https://razi-king.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-razi--king.github.io-F2C14E?style=flat-square&labelColor=1a0b2e"/></a>
 </p>
 
 ---
@@ -75,6 +76,15 @@ func main() {
 
 ## ⚙️ Backend Realm
 
+<p align="center">
+  <a href="https://github.com/razi-king/Portfolio"><b>🌐 Portfolio Platform</b></a>: a Three.js site with an <b>event-driven Go backend</b>.<br/>
+  Contact messages flow <b>Go API → PostgreSQL → RabbitMQ → email worker</b>, with retry queues, a DLQ and a parking lot, and integration tests run in CI.<br/><br/>
+  <a href="https://razi-king.github.io/Portfolio/"><img src="https://img.shields.io/badge/Open%20the%20live%20site-F2C14E?style=for-the-badge&labelColor=1a0b2e&logo=threedotjs&logoColor=F2C14E"/></a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -120,7 +130,7 @@ func main() {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/razi-king/E_Com">E-Commerce Storefront</a></h3>
+      <h3>🛍️ <a href="https://razi-king.github.io/E_Com/">E-Commerce Storefront — live</a></h3>
       Responsive, mobile-first shop UI with hero banners, a product grid, testimonials and a newsletter footer. Uses a shared layout with nested routes.
       <br/><br/>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -146,12 +156,11 @@ func main() {
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🧑‍💻 <a href="https://github.com/razi-king/Portfolio">Personal Portfolio</a></h3>
-      Hand-coded portfolio with an education timeline, services, testimonials and a contact form. Plain HTML, CSS and JavaScript, no frameworks.
+      <h3>🕹️ <a href="https://razi-king.github.io/ReactJs-25-Project/">React Components Lab — live</a></h3>
+      Every one of the 9 components is deployed and clickable: accordion, slider, tree view, QR generator, dark mode and more.
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     </td>
   </tr>
 </table>
