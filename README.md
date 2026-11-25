@@ -89,16 +89,16 @@ func main() {
   <tr>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/razi-king/Expense-Tracker">Expense Tracker</a></h3>
-      Full-stack finance tracker. Stateless JWT auth through a custom Spring Security filter, BCrypt passwords, admin-only routes, and per-user expense APIs with an Astro + React UI.
+      Personal finance dashboard: monthly totals, a category donut and a 6-month trend, plus add, edit and delete. Stateless JWT security with every query scoped to the logged-in user. Integration-tested against Postgres in CI.
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/razi-king/SpringProjects/tree/main/ChatAppBackend">Real-time Chat</a></h3>
-      Room-based chat over WebSocket (STOMP). Spring Boot + MongoDB backend with custom error codes, a global exception handler and OpenAPI docs, plus a <a href="https://github.com/razi-king/SpringProjects/tree/main/chat_app_frontend">React frontend</a>.
+      Live chat rooms over STOMP/WebSocket with <b>who's online</b>, <b>typing indicators</b> and paginated history in MongoDB. The <a href="https://razi-king.github.io/SpringProjects/">React client</a> reconnects on its own. A live STOMP test runs in CI.
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -130,16 +130,16 @@ func main() {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://razi-king.github.io/E_Com/">E-Commerce Storefront — live</a></h3>
-      Responsive, mobile-first shop UI with hero banners, a product grid, testimonials and a newsletter footer. Uses a shared layout with nested routes.
+      <h3>🛍️ <a href="https://razi-king.github.io/E_Com/">Kumo Fashion Store — live</a></h3>
+      A shop you can actually use: search, filters and sorting in the URL, product pages with sizes and stock, a persistent bag, and checkout with validation.
       <br/><br/>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/React%20Router%207-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind%204-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>⚛️ <a href="https://github.com/razi-king/ReactJs-25-Project">React Projects Collection</a></h3>
-      9 hand-built UI components: accordion, image slider, tree view, QR generator, star rating, load-more pagination, dark mode with a custom <code>useLocalStorage</code> hook, and more.
+      <h3>⚛️ <a href="https://razi-king.github.io/ReactJs-25-Project/">React Components Lab — live</a></h3>
+      9 accessible components in one app: tree view, image slider, QR generator, load-more pagination and more, each with keyboard support and loading/error states.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Hooks-8E2DE2?style=flat-square"/>
@@ -156,8 +156,8 @@ func main() {
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🕹️ <a href="https://razi-king.github.io/ReactJs-25-Project/">React Components Lab — live</a></h3>
-      Every one of the 9 components is deployed and clickable: accordion, slider, tree view, QR generator, dark mode and more.
+      <h3>💰 <a href="https://razi-king.github.io/expense-tracker/">Expense Tracker UI</a></h3>
+      Astro + React dashboard with Recharts: monthly summary cards, category donut, 6-month trend, and an accessible add/edit dialog.
       <br/><br/>
       <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
